@@ -1,5 +1,5 @@
 [
-  {"vendor": "Gulf Logistics", "riskCategory": "High", "score": 78},
+  {"vendor": "Gulf Logistics", "riskCategory": "High", "score": 78}
   {"vendor": "Kerala Spices Co", "riskCategory": "Low", "score": 22},
   {"vendor": "Desert Freight", "riskCategory": "Medium", "score": 51}
 ]
